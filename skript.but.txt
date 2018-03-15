@@ -5,3 +5,6 @@ dir
 echo. "Hi, Bro">NonEmptyFile.txt
 dir
 more nonEmptyFile.txt
+
+fact nonstop
+
